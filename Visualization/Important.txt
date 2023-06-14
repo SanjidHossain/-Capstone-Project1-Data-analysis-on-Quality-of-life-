@@ -1,0 +1,12 @@
+Project Idea:
+
+sources:
+1.https://www.worldometers.info/world-population/population-by-country/
+2.https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)
+3.https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy
+4.https://en.wikipedia.org/wiki/List_of_countries_by_literacy_rate
+5.https://tradingeconomics.com/country-list/inflation-rate?continent=world
+
+From these above sources(tables and stats with multiple variations), I want to find insights and possibly the quality of life in these countries ,
+the corelations between some of the factors in countries and problems. 
+
