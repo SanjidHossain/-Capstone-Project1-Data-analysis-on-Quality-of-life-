@@ -3,11 +3,10 @@
 ## Problem statement
 THe goal of this projectis to gather data by scrapping both dynamic and static websites for data analysis on Quality of life based on World population, GDP, inflation and life expectency of each countries.<br/>
 The source for these data are:<br/>
-1.https://www.worldometers.info/world-population/population-by-country/<br/>
-2.https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP) <br/>
-3.https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy <br/>
-4.https://en.wikipedia.org/wiki/List_of_countries_by_literacy_rate <br/>
-5.https://tradingeconomics.com/country-list/inflation-rate?continent=world<br/>
+1.Population source.[This website](https://www.worldometers.info/world-population/population-by-country/)<br/>
+2.GDP source.[This website](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)) <br/>
+3.Life Expectency source.[This website](https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy) <br/>
+4.Inflation rate source.[This website](https://tradingeconomics.com/country-list/inflation-rate?continent=world)<br/>
 
 Please visit the public dashboard to checkout the analysis here:<br/>
 ## 1.Quality of life world wide<br/>
@@ -18,7 +17,7 @@ This dashboard contains 5 graphs<br/>
 4. A barchart that compares the inflation rate in all 5 region and their countries(Americas have most amount of inflation, Venezuela=436)
 5. A Line chart comparing the Life expectency in all the regions including both male and female data(Africa has the lowest life expectency of 66.36 on average while rest of the world have over 75)<br/>
 
-#### Please visit this Link to checkout the public dashboard: https://public.tableau.com/app/profile/sanjid.hossain/viz/CP1QualityoflifeRegionalworldwide/Regionalgraph?publish=yes <br/>
+#### Please visit this Link to checkout the public dashboard: [Here](https://public.tableau.com/app/profile/sanjid.hossain/viz/CP1QualityoflifeRegionalworldwide/Regionalgraph?publish=yes) <br/>
 
 
 ## 2.Quality of Life in Asian countries<br/>
@@ -27,7 +26,7 @@ This dashboard contains 3 graphs<br/>
 2. A barchart and a linechart, where the barhcart shows the etsimated GDP from IMF in asia (where China has the bigest GDP, almost over twice of it's 2nd richest nation India) as for the linechart, it compares the inflation rate of previous years to it's current years in asian country(expectedly China and Brunei has the lowest inlation has the, However Countries such as Iran, Turkey,Pakistan and Laos has very concerningly high number Inflation of 39.59,55.50,38,38.86. While Sri-Lanka was deaking with high inflation rate for past few years, their inflation rate hase started to decrease as it's current inflation rate is 25.20 which was previously 35.30)  
 3. A Linechart, that compare between Average Life expectency, male and female life expectency for all the asian countries(Singapore and Japan has highest life expectency of 86 and 85, where their female life expectency is 89 and 88, male life expectency is 84 and 81. India has the lowest life expectency of 69 out of all the asian countries despite being 2nd in top for it's economy and land mass, as for china , the average life expectency is 77.78 )<br/>
 ### out of all the countries, comparing economy, population growth and the life expectency, it can be assumed that China might have one of the best quality of life in Asian Countries<br/>
-#### Please visit this Link to checkout the public dashboard: https://public.tableau.com/app/profile/sanjid.hossain/viz/QualityofLifeinAsianContinenet/QualityoflifeinAsia?publish=yes<br/>
+#### Please visit this Link to checkout the public dashboard: [Here](https://public.tableau.com/app/profile/sanjid.hossain/viz/QualityofLifeinAsianContinenet/QualityoflifeinAsia?publish=yes)<br/>
 
 <br/>
 
@@ -37,7 +36,7 @@ This dashboard contains 3 graphs<br/>
 2. A barchart and a linechart, where the barhcart shows the etsimated GDP from IMF in Africa (where Egypt has the bigest GDP, after 2nd and third richest nation such as Nigeria and South Afirca) as for the linechart, it compares the inflation rate of previous years to it's current years in aFrican country(Niger has the lowest inlation of 1, However Countries such as Zimbabwe, Sudan and Sierra Leone has very concerningly high number Inflation of 87,63 and 43. Where Inflation is rising in Zimbabwe and inflation rate of Sudan has started to decrease as it's current inflation rate is 63 which was previously 83)  
 3. A Linechart, that compare between Average Life expectency, male and female life expectency for all the african countries(Algeria and Libya has highest life expectency of 78 and 77, where their female life expectency is 79.57 and 79.53, male life expectency is 76.67 and 75. Somalia has the lowest life expectency of 55.72 out of all the african countries despite, as for South Africa,Egypt and Nigeria the average life expectency is 65,75 and 61 where egypt has lowest gender gap in life expectency )<br/>
 ### out of all the countries, comparing economy, population growth and the life expectency, it can be assumed that Egypt and South Africa might have one of the best quality of life in African Countries, while most of the country in htat region are in bad conditions including some of the countries with inflation below 0.<br/>
-#### Please visit this Link to checkout the public dashboard: https://public.tableau.com/app/profile/sanjid.hossain/viz/QualityofLifeinAfricanContinenet/QualityoflifeinAfrica?publish=yes<br/>
+#### Please visit this Link to checkout the public dashboard: [Here](https://public.tableau.com/app/profile/sanjid.hossain/viz/QualityofLifeinAfricanContinenet/QualityoflifeinAfrica?publish=yes)<br/>
 
 ## 4.Quality of Life in American countries<br/>
 This dashboard contains 3 graphs<br/>
@@ -45,7 +44,7 @@ This dashboard contains 3 graphs<br/>
 2. A barchart and a linechart, where the barhcart shows the etsimated GDP from IMF in Ameica (where USA has the bigest GDP, while non of the other countries came as close to USA, Even Canda and brazil has 7 times lower GDP estimation of USA ) as for the linechart, it compares the inflation rate of previous years to it's current years in American country(Almost all the American countries has the lower steady inlation of below 8, However Countries such as Venezuela, and Argentina has very  high number Inflation of 436 and 109. which makes Venezuela as top of the world in term of inflation)  
 3. A Linechart, that compare between Average Life expectency, male and female life expectency for all the Amerian countries(Canda and Puerte Rico has highest life expectency of 83.80 and 81.68, where their female life expectency is 86 and 85, male life expectency is 81.52 and 78.47. Hiati and peru has the lowest life expectency of 66 and 69 out of all the Amrican countries, as for USA and Venezuela the average life expectency is 78 and 73.)<br/>
 ### out of all the countries, comparing economy, population growth and the life expectency, it is clearly expected that USA and Canda have one of the best quality of life in American Countries, However, the inetresting finding was that Venezuela has one of the hardest living condition in American Country as well as World wide as they are facing problems in almsot many ways.<br/>
-#### Please visit this Link to checkout the public dashboard: https://public.tableau.com/app/profile/sanjid.hossain/viz/QualityofLifeinAmericanContinenet/Dashboard4?publish=yes
+#### Please visit this Link to checkout the public dashboard: [Here](https://public.tableau.com/app/profile/sanjid.hossain/viz/QualityofLifeinAmericanContinenet/Dashboard4?publish=yes)
 
 ## Build from sources
 1. clone the repo
