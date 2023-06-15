@@ -64,5 +64,4 @@ source venv/bin/activate
 pip install -r requirments.txt
 ```
 4.download chrome webdriver from https://chromedriver.chromium.org/downloads
-
-
+You will find the scraped data in `Merged Data.Xlsx` or alternatively visit this [Link](https://github.com/SanjidHossain/-Capstone-Project1-Data-analysis-on-Quality-of-life-/tree/main/Visualization/Data) 
