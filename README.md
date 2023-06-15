@@ -18,7 +18,7 @@ This dashboard contains 5 graphs<br/>
 5. A Line chart comparing the Life expectency in all the regions including both male and female data(Africa has the lowest life expectency of 66.36 on average while rest of the world have over 75)<br/>
 
 #### Please visit this Link to checkout the public dashboard: [Here](https://public.tableau.com/app/profile/sanjid.hossain/viz/CP1QualityoflifeRegionalworldwide/Regionalgraph?publish=yes) <br/>
-[Regional](https://github.com/SanjidHossain/-Capstone-Project1-Data-analysis-on-Quality-of-life-/blob/main/Visualization/Data/Graphs/Dashboard%204.png)
+[Regional](Visualization/Data/Graphs/Dashboard 4.png)
 
 
 ## 2.Quality of Life in Asian countries<br/>
