@@ -1,7 +1,7 @@
 # -Capstone-Project1-Data-analysis-on-Quality-of-life-
 
 ## Problem statement
-THe goal of this projectis to gather data by scrapping both dynamic and static websites for data analysis on Quality of life based on World population, GDP, inflation and life expectency of each countries.<br/>
+The goal of this project is to gather data by scrapping both dynamic and static websites for data analysis on Quality of life based on World population, GDP, inflation and life expectency of each countries.<br/>
 The source for these data are:<br/>
 1.Population data from.[This website](https://www.worldometers.info/world-population/population-by-country/)<br/>
 2.GDP data from .[This website](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)) <br/>
