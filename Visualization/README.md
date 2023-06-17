@@ -1,5 +1,4 @@
 # -Capstone-Project1-Data-analysis-on-Quality-of-life-
-# -Capstone-Project1-Data-analysis-on-Quality-of-life-
 
 ## Problem statement
 The goal of this project is to gather data by scrapping both dynamic and static websites for data analysis on Quality of life based on World population, GDP, inflation and life expectency of each countries.<br/>
