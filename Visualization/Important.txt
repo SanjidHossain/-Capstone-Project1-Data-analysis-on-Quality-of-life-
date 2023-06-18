@@ -10,3 +10,4 @@ sources:
 From these above sources(tables and stats with multiple variations), I want to find insights and possibly the quality of life in these countries ,
 the corelations between some of the factors in countries and problems. 
 
+video presentation Link:https://drive.google.com/file/d/1TwLIcejEzbSLozc4BSoX8xlpiws9S_2q/view?usp=sharing
