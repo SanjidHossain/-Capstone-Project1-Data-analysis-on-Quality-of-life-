@@ -1,7 +1,7 @@
 # Data-analysis-on-Quality-of-life
 
 ## Problem statement
-The goal of this project is to gather data by scrapping both dynamic and static websites for data analysis on Quality of life, based on the World 
+The goal of this project is to gather data by scrapping both dynamic and static websites for data analysis on Quality of life, based on the World
 
 population, GDP, inflation and life expectancy of each country and run an analysis to find the quality of life from these data.<br/>
 
@@ -12,8 +12,8 @@ The sources for these data are:<br/>
 4. Inflation rate data from.[This website](https://tradingeconomics.com/country-list/inflation-rate?continent=world)<br/>
 
 Please visit the public dashboard to check out the analysis here:<br/>
-[Quality of life worldwid](#point1) or visit the [dashboard](https://public.tableau.com/app/profile/sanjid.hossain/viz/CP1QualityoflifeRegionalworldwide/Regionalgraph?publish=yes) directly.<br/>
-[Quality of life worldwid](#point2) or visit the [dashboard](https://public.tableau.com/app/profile/sanjid.hossain/viz/QualityofLifeinAsianContinenet/QualityoflifeinAsia?publish=yes) directly.<br/>
+[Quality of life worldwide](#point1) or visit the [dashboard](https://public.tableau.com/app/profile/sanjid.hossain/viz/CP1QualityoflifeRegionalworldwide/Regionalgraph?publish=yes) directly.<br/>
+[Quality of life in Asia](#point2) or visit the [dashboard](https://public.tableau.com/app/profile/sanjid.hossain/viz/QualityofLifeinAsianContinenet/QualityoflifeinAsia?publish=yes) directly.<br/>
 [Quality of Life in African Countries](#point3) or visit the [dashboard](https://public.tableau.com/app/profile/sanjid.hossain/viz/QualityofLifeinAfricanContinenet/QualityoflifeinAfrica?publish=yes) directly.<br/>
 [Quality of Life in American Countries](#point4) or visit the [dashboard](https://public.tableau.com/app/profile/sanjid.hossain/viz/QualityofLifeinAmericanContinenet/Dashboard4?publish=yes) directly.<br/>
 
@@ -43,7 +43,7 @@ This dashboard contains 5 graphs<br/>
 
 
 <a id="point2"></a>
-## 2.Quality of life worldwid <br/>
+## 2.Quality of life in Asia <br/>
 ![Asian graph](https://github.com/SanjidHossain/-Capstone-Project1-Data-analysis-on-Quality-of-life-/blob/main/Visualization/Data/Graphs/Quality%20of%20life%20in%20Asia.png)<br/>
 This dashboard contains 3 graphs<br/>
 1. Comparison of Total Population, Landmass, and Fertility Rate in Asian Countries(Three bar charts):
@@ -71,7 +71,7 @@ This dashboard contains 3 graphs<br/>
        - Singapore and Japan have the highest (84 and 81, respectively).
        - China's average life expectancy is 77.78.<br/>
 
-### Findings From the [Dashboard:](https://public.tableau.com/app/profile/sanjid.hossain/viz/Qualityoflifeworldwide/Regionalgraph) 
+### Findings From the [Dashboard:](https://public.tableau.com/app/profile/sanjid.hossain/viz/Qualityoflifeworldwide/Regionalgraph)
 - China stands out among Asian countries with one of the best quality of life, considering its economy, population growth, and life expectancy.
 - India, despite having a large population and a relatively better economy than some other Asian countries, does not have one of the best qualities of life in the region.
 - Life in Iran and especially Laos is more challenging due to factors such as high inflation rates and other issues, as reflected in their lower life expectancy. <br/>
