@@ -10,7 +10,7 @@ The sources for these data are:<br/>
 4. Inflation rate data from.[This website](https://tradingeconomics.com/country-list/inflation-rate?continent=world)<br/>
 
 Please visit the public dashboard to check out the analysis here:<br/>
-[Quality of life worldwide](#point1) or visit the [dashboard](https://public.tableau.com/app/profile/sanjid.hossain/viz/CP1QualityoflifeRegionalworldwide/Regionalgraph?publish=yes) directly.<br/>
+[Quality of life worldwide](#point1) or visit the [dashboard](https://public.tableau.com/authoring/QualityoflifeworldwideRegionally/Regionalgraph#1) directly.<br/>
 [Quality of life in Asia](#point2) or visit the [dashboard](https://public.tableau.com/app/profile/sanjid.hossain/viz/QualityofLifeinAsianContinenet/QualityoflifeinAsia?publish=yes) directly.<br/>
 [Quality of Life in African Countries](#point3) or visit the [dashboard](https://public.tableau.com/app/profile/sanjid.hossain/viz/QualityofLifeinAfricanContinenet/QualityoflifeinAfrica?publish=yes) directly.<br/>
 [Quality of Life in American Countries](#point4) or visit the [dashboard](https://public.tableau.com/app/profile/sanjid.hossain/viz/QualityofLifeinAmericanContinenet/Dashboard4?publish=yes) directly.<br/>
@@ -26,7 +26,7 @@ This dashboard contains 5 graphs<br/>
 4. A bar chart that compares the inflation rate in all 5 region and their countries(Americas have the most amount of inflation, Venezuela=436)
 5. A-Line chart comparing the Life expectancy in all the regions including both male and female data(Africa has the lowest life expectancy of 66.36 on average while the rest of the world has over 75)<br/>
 
-### Findings From the [Dashboard:](https://public.tableau.com/app/profile/sanjid.hossain/viz/Qualityoflifeworldwide/Regionalgraph)
+### Findings From the [Dashboard:](https://public.tableau.com/authoring/QualityoflifeworldwideRegionally/Regionalgraph#1)
 - Almost Half the world's population is in Asian countries (over 4 billion), making it the most populous region.
 - The rest of the regions have populations below 1.5 billion, including the American region, which has the highest landmass in the world.
 - Asia is overly populated compared to other regions.
@@ -36,7 +36,7 @@ This dashboard contains 5 graphs<br/>
 - Oceania and Europe have a more balanced combination of population, landmass, and economy.
 - Oceania and Europe possibly have the best quality of life among all regions, considering these factors and insights.<br/>
 
-#### Visit this Link to check out the public dashboard: [Here](https://public.tableau.com/app/profile/sanjid.hossain/viz/CP1QualityoflifeRegionalworldwide/Regionalgraph?publish=yes) <br/>
+#### Visit this Link to check out the public dashboard: [Here](https://public.tableau.com/authoring/QualityoflifeworldwideRegionally/Regionalgraph#1) <br/>
 
 
 
