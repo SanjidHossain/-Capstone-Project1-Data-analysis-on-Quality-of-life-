@@ -1,9 +1,7 @@
 # Data-analysis-on-Quality-of-life
 
 ## Problem statement
-The goal of this project is to gather data by scrapping both dynamic and static websites for data analysis on Quality of life, based on the World 
-
-population, GDP, inflation and life expectancy of each country and run an analysis to find the quality of life from these data.<br/>
+The goal of this project is to gather data by scrapping both dynamic and static websites for data analysis on Quality of life, based on the World population, GDP, inflation and life expectancy of each country and run an analysis to find the quality of life from these data.<br/>
 
 The sources for these data are:<br/>
 1. Population data from.[This website](https://www.worldometers.info/world-population/population-by-country/)<br/>
@@ -43,7 +41,7 @@ This dashboard contains 5 graphs<br/>
 
 
 <a id="point2"></a>
-## 2.Quality of life worldwid <br/>
+## 2.Quality of life worldwide <br/>
 ![Asian graph](https://github.com/SanjidHossain/Data-analysis-on-Quality-of-life-/blob/main/Scrappers%20and%20Data/Data/Graphs/Quality%20of%20life%20in%20Asia.png)<br/>
 This dashboard contains 3 graphs<br/>
 1. Comparison of Total Population, Landmass, and Fertility Rate in Asian Countries(Three bar charts):
