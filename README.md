@@ -160,6 +160,10 @@ source venv/bin/activate
 pip install -r requirments.txt
 ```
 4. download chrome web driver from https://chromedriver.chromium.org/downloads<br/>
+5. run scrapper
+```bash
+python Scripts/Selenium_scrapper.py --chromedrive_path<path_to_chromedriver>
+```
 ## [Click Here](https://github.com/SanjidHossain/-Capstone-Project1-Data-analysis-on-Quality-of-life-/tree/main/Visualization/Scripts) to check out the scripts for data scraping
 You will find the scraped data in `Merged Data.Xlsx` or alternatively visit this [Link](https://github.com/SanjidHossain/Data-analysis-on-Quality-of-life/tree/main/Data)<br/>
 Check out the video presentation [here](https://drive.google.com/file/d/1TwLIcejEzbSLozc4BSoX8xlpiws9S_2q/view)
