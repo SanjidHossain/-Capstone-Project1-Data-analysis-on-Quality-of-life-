@@ -20,7 +20,7 @@ Please visit the public dashboard to check out the analysis here:<br/>
 
 <a id="point1"></a>
 ## 1. Quality of life worldwide <br/>
-![Regional graph](https://github.com/SanjidHossain/-Capstone-Project1-Data-analysis-on-Quality-of-life-/blob/main/Visualization/Data/Graphs/Regional%20graph.png)<br/>
+![Regional graph](https://github.com/SanjidHossain/Data-analysis-on-Quality-of-life-/blob/main/Scrappers%20and%20Data/Data/Graphs/Regional%20graph.png)<br/>
 This dashboard contains 5 graphs<br/>
 1. A bar chart that demonstrates the population in all 5 regions including their most populated countries(Asia has the most amount of population of over 4 billion)
 2. A bar chart demonstrating the Land mass of each region in ascending order including the countries with the biggest land mass(the Americas has the most amount of land mass compared to Asia where the population is over double)
@@ -44,7 +44,7 @@ This dashboard contains 5 graphs<br/>
 
 <a id="point2"></a>
 ## 2.Quality of life worldwid <br/>
-![Asian graph](https://github.com/SanjidHossain/-Capstone-Project1-Data-analysis-on-Quality-of-life-/blob/main/Visualization/Data/Graphs/Quality%20of%20life%20in%20Asia.png)<br/>
+![Asian graph](https://github.com/SanjidHossain/Data-analysis-on-Quality-of-life-/blob/main/Scrappers%20and%20Data/Data/Graphs/Quality%20of%20life%20in%20Asia.png)<br/>
 This dashboard contains 3 graphs<br/>
 1. Comparison of Total Population, Landmass, and Fertility Rate in Asian Countries(Three bar charts):
      - China and India have the highest population. (chart 1)
@@ -79,7 +79,7 @@ This dashboard contains 3 graphs<br/>
 
 <a id="point3"></a>
 ## 3.Quality of Life in African Countries <br/>
-![African graph](https://github.com/SanjidHossain/-Capstone-Project1-Data-analysis-on-Quality-of-life-/blob/main/Visualization/Data/Graphs/Quality%20of%20life%20in%20Africa.png)<br/>
+![African graph](https://github.com/SanjidHossain/Data-analysis-on-Quality-of-life-/blob/main/Scrappers%20and%20Data/Data/Graphs/Quality%20of%20life%20in%20Africa.png)<br/>
 This dashboard contains 3 graphs<br/>
 1. Comparison of Total Population, Landmass, and Fertility Rate in African Countries(Three bar charts):
     - Nigeria, Ethiopia, and Egypt have the highest population.
@@ -114,7 +114,7 @@ This dashboard contains 3 graphs<br/>
 
 <a id="point4"></a>
 ## 4. Quality of Life in American Countries <br/>
-![American graph](https://github.com/SanjidHossain/-Capstone-Project1-Data-analysis-on-Quality-of-life-/blob/main/Visualization/Data/Graphs/Dashboard%204.png)<br/>
+![American graph](https://github.com/SanjidHossain/Data-analysis-on-Quality-of-life-/blob/main/Scrappers%20and%20Data/Data/Graphs/Dashboard%204.png)<br/>
 This dashboard contains 3 graphs<br/>
 1. Comparison of Total Population, Landmass, and Fertility Rate in American Countries(Three bar charts):
     - USA, Brazil, and Mexico have the highest population.
